@@ -10,7 +10,7 @@ There are no requirements and prerequisites to using MATLAB except for the softw
 
 In this repo, you will find two folders, which I explain below:
 
-- **Assorted function files**
+### **Assorted function files**
 
 Here is the folder where I will store my frequently used functions. The inspiration for this came when I was too tired to double-check my workings for the math-intensive ones (I am not lazy I swear).
 
@@ -19,7 +19,7 @@ Here is the folder where I will store my frequently used functions. The inspirat
   - **gausselim.m** covers the Gauss-Jordan elimination method, a row reduction method for solving linear equations of Ax=B. Currently, this only solves for matrix size (3,3).  
   - **numbersieve.m** sieves out negative numbers out of a 1D array of numbers given. Something that I made out of boredom:)
 
-- **Computational Thinking Course (CH2107)**
+### **Computational Thinking Course (CH2107)**
 
 Here is the folder where I store my assignment from my school courses, questions and results included. Code explanations are embedded in scripts as comments.
 
